@@ -1,0 +1,12 @@
+{
+    "title": "Type Checker Design and Implementation",
+    "description": "This document describes the design and implementation of the Swift type checker. ",
+    "language": "zh",
+    "license": "cc by nc sa 4.0",
+    "author": "hongbo",
+    "x_proofread": "",
+    "x_origin_author": "hborla",
+    "x_origin_url": "https://github.com/apple/swift/blob/main/docs/TypeChecker.md",
+    "x_origin_ctime": "2 Oct 2020",
+    "structure.glossary": "GLOSSARY.md"
+  }
